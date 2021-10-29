@@ -2,7 +2,8 @@
 - 👀 I’m interested in front end development...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on frontend projects...
-- 📫 How to reach me Email Robinsaini2126@gmail.co
+- 📫 How to reach me Email => Robinsaini2126@gmail.com
+- LinkedIn => https://www.linkedin.com/in/robin-saini-237276224/
 
 <!---
 RobinSaini21/RobinSaini21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
